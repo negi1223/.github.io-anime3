@@ -184,7 +184,7 @@ font-family: 'Yuji Syuku', serif;
 
 .menu a {
   display: flex;
-  padding: 15px;
+  padding: 0px;
   text-decoration: none;
   color: #000;
 }
